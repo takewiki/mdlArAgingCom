@@ -4,7 +4,7 @@
 tabItem(tabName = "mdlArAgingCom",
                     fluidRow(
                       column(width = 12,
-                             tabBox(title ="雷神账龄分析报表数据中台",width = 12,
+                             tabBox(title ="雷神数据中台",width = 12,
                                     id='tabSet_mdlArAgingCom',height = '300px',
                                     #以上为注册ui组件的内容-----
                                     #begin----
