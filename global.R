@@ -11,6 +11,7 @@ module_id ='mdlArAgingCom'
 module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
+dms_dms_token=''
 erp_token ='32AD1228-E769-49AE-9D99-3C9E05531691'
 
 #加载数据中台的所有系统包及程序包
