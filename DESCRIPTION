@@ -1,7 +1,7 @@
 Package: mdlArAgingCom
 Type: DMS
 Title: mdlArAgingCom mudule for reshape data solutions.
-Version: 1.0.5
+Version: 1.0.6
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: user interface element for ui elements,latout and actions,
